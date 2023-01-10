@@ -1,10 +1,13 @@
+
 <a name="readme-top"></a>
+
 
 <div align="center">
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>My README File</b></h3>
 
 </div>
+
 
 # 📗 Table of Contents
 
@@ -25,46 +28,122 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
+- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 
-# 📖 [Hello Microverse Project] <a name= "Set up a Hello Microverse project"></a>
+# 📖 [your_project_name] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+**[Hello microverse project]** is a project, for setting up a "Hello world" repository. No complex coding is required. The goal here is to master all of the tools and best practices I have learned so far.  
 
-**[Hello Microverse Project]** is a project, to set up a "Hello world" repository. No complex coding is required for this exercise. The goal here is to master all of the tools and best practices I have learned.
+## 🛠 Built With <a name="built-with"></a>
+HTML and CSS
 
-## 🛠 Built With <a name="HTML and CSS"></a>
+### Tech Stack <a name="tech-stack"></a>
 
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](There is no live demo for this project)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
 
+### Prerequisites
+
+In order to run this project you need:
+
+- Code Editor of your choice.
+- A browser
+- Node.js environment
 
 ### Setup
 
 Clone this repository to your desired folder:
 
+  git clone `git clone git@github.com:WilhelmK109/Hello-world.git`
 
-git clone git@github.com:WilhelmK109/Hello-world.git
+### Install
+
+Install this project with:
+
+- Run `npm install` to download all the project dependencies.
+
+### Usage
+
+To run the project, execute the following command:
+
+
+### Run tests
+
+To run tests, run the following command:
+
+
+### Deployment
+
+You can deploy this project using:
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/WilhelmK109)
+- GitHub: [@WilhelmK109](https://github.com/WilhelmK109)
+- Twitter: [@twitterhandle](https://twitter.com/ActiveK7)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/wilhelm-kamulunga-613675114/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License <a name="MIT License"></a>
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/WilhelmK109/Hello-world/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project please give a ⭐️!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank microverse for giving me this opportunity.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Click this link for more: https://github.com/WilhelmK109/Hello-world/blob/main/LICENSE
